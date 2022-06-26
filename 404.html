@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-	<meta name="generator" content="Hugo 0.99.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,25 +17,25 @@
     
 
     
-    <title>Adno</title>
+    <title>404 Page not found</title>
     <meta name="description" content="Adno est une application web de visualisation, d’édition et de partage d&#39;annotations sur des images IIIF. ">
     <meta name="keywords" content='adno, iiif, culture, sciences, médiation'>
 
-    <meta property="og:url" content="https://adno.app/">
+    <meta property="og:url" content="https://adno.app/404.html">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Adno">
+    <meta property="og:title" content="404 Page not found">
     <meta property="og:description" content="Adno est une application web de visualisation, d’édition et de partage d&#39;annotations sur des images IIIF. ">
     <meta property="og:image" content="">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Adno">
+    <meta name="twitter:title" content="404 Page not found">
     <meta name="twitter:description" content="Adno est une application web de visualisation, d’édition et de partage d&#39;annotations sur des images IIIF. ">
-    <meta property="twitter:domain" content="https://adno.app/">
-    <meta property="twitter:url" content="https://adno.app/">
+    <meta property="twitter:domain" content="https://adno.app/404.html">
+    <meta property="twitter:url" content="https://adno.app/404.html">
     <meta name="twitter:image" content="">
 
     
-    <link rel="canonical" href="https://adno.app/" />
+    <link rel="canonical" href="https://adno.app/404.html" />
 
     <link rel="stylesheet" type="text/css" href="https://adno.app//css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="https://adno.app//css/main.css">
@@ -159,13 +158,23 @@
     </nav>
 </header>
 <main id="content">
-<div id="toolbar-container"></div>
-<div id="openseadragon"></div>
-<script src="https://cdn.jsdelivr.net/npm/openseadragon@3.0.0/build/openseadragon/openseadragon.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@recogito/annotorious@2.7.6/dist/annotorious.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@recogito/annotorious-openseadragon@2.7.6/dist/openseadragon-annotorious.min.js" ></script>
-<script src="https://cdn.jsdelivr.net/npm/@recogito/annotorious-toolbar@latest/dist/annotorious-toolbar.min.js"></script>
-<script src="/js/adno.js"></script>
+
+<div class="text-404">
+  <h1 class="error-emoji"></h1>
+  <h2>
+      404 ... This page does not exist, go <a href="https://adno.app/">home</a>
+  </h2>
+</div>
+<script>
+  const errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
+  const emojiArray = [
+    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+    '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/',
+  ];
+  const errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
+  errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
+</script>
+
 
         </main><footer class="footer">
 	<span>
