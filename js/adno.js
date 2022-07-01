@@ -29,6 +29,8 @@ window.onload = function() {
 		disableEditor: false
 	});
 
+	Annotorious.SelectorPack(anno);
+	Annotorious.BetterPolygon(anno);
 	// Init the ToolBar plugin
 	Annotorious.Toolbar(anno, document.getElementById('toolbar-container'));
 

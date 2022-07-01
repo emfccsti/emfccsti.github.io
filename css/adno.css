@@ -9,10 +9,12 @@
 }
 
 #toolbar-container {
-	position: absolute; 
-	top:0; 
-	left: 12%;
-	z-index: 100;
+	position: absolute;
+        top: 5px;
+        right: 10px;
+        border-radius:3px;
+        background-color: rgba(255,255,255,0.65);
+        z-index:9999;
 }
 
 .post-content ul li {
