@@ -6,7 +6,8 @@ if (urlParams.has('url')) {
 	if (re.test(url)) {
 		var source = [{
 			type: 'image',
-			url: url 
+			url: url,
+			buildPyramid: false
 		}];
 	} else {
 		var source = url;
