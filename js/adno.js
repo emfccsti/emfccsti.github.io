@@ -1,7 +1,16 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 if (urlParams.has('url')) {
-	var source = urlParams.get('url');
+	var re = new RegExp("^.*(png|jpg|jpeg|JPG)$");
+	var url = urlParams.get('url');
+	if (re.test(url)) {
+		var source = [{
+			type: 'image',
+			url: url 
+		}];
+	} else {
+		var source = url;
+	}
 	var title = urlParams.get('title');
 } else {	
 	var source = "https://free.iiifhosting.com/iiif/1c8d49343676a04fffcd92979c02e9394e48bac96f590fffbadffc9133cd06b9/info.json";
