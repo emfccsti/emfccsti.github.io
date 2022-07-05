@@ -1,7 +1,7 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 if (urlParams.has('url')) {
-	var re = new RegExp("^.*(png|jpg|jpeg|JPG)$");
+	var re = new RegExp("^.*(png|jpg|jpeg)$");
 	var url = urlParams.get('url');
 	if (re.test(url)) {
 		var source = [{
