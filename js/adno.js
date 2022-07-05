@@ -44,7 +44,7 @@ window.onload = function() {
 	// Init the ToolBar plugin
 	Annotorious.Toolbar(anno, document.getElementById('toolbar-container'));
 
-	anno.loadAnnotations('annotations.w3c.json');
+	//anno.loadAnnotations('annotations.w3c.json');
 
 	anno.on('createAnnotation', function(a) {
 	});
