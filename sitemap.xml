@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://adno.app/</loc>
+    <lastmod>2022-07-10T20:59:25+02:00</lastmod>
+  </url><url>
+    <loc>https://adno.app/post/</loc>
+    <lastmod>2022-07-10T20:59:25+02:00</lastmod>
+  </url><url>
+    <loc>https://adno.app/post/2022-06-23/</loc>
+    <lastmod>2022-07-10T20:59:25+02:00</lastmod>
+  </url><url>
     <loc>https://adno.app/contact-feedback/</loc>
     <lastmod>2022-05-29T15:15:20+02:00</lastmod>
   </url><url>
@@ -13,15 +22,6 @@
   </url><url>
     <loc>https://adno.app/mode-emploi/</loc>
     <lastmod>2022-05-25T13:18:58+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/</loc>
-    <lastmod>2022-05-10T20:59:25+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/post/</loc>
-    <lastmod>2022-05-10T20:59:25+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/post/2022-06-23/</loc>
-    <lastmod>2022-05-10T20:59:25+02:00</lastmod>
   </url><url>
     <loc>https://adno.app/post/2022-05-03/</loc>
     <lastmod>2022-05-03T20:59:25+02:00</lastmod>
