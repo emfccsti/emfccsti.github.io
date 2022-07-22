@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exemples on Adno</title>
+    <link>https://adno.app/exemple/</link>
+    <description>Recent content in Exemples on Adno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 22 Jul 2022 18:30:05 +0200</lastBuildDate><atom:link href="https://adno.app/exemple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carte de Cassini</title>
+      <link>https://adno.app/exemple/cassini/</link>
+      <pubDate>Fri, 22 Jul 2022 18:30:05 +0200</pubDate>
+      
+      <guid>https://adno.app/exemple/cassini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saint Savin</title>
+      <link>https://adno.app/exemple/saint-savin/</link>
+      <pubDate>Fri, 22 Jul 2022 18:30:05 +0200</pubDate>
+      
+      <guid>https://adno.app/exemple/saint-savin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
