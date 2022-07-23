@@ -84,18 +84,23 @@
 	flex-wrap: wrap;
 	align-items: stretch;
 }
+
 .card {
 	flex: 0 0 30%;
 	margin: 10px;
 	border: 1px solid #ccc;
 	box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
 }
+
 .card img {
 	max-width: 100%;
 }
+
 .card div {
 	padding: 0 20px 20px;
+	font-size: 0.9em;
 }
+
 .card div > button {
 	background: gray;
 	border: 0;
