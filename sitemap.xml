@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://adno.app/</loc>
-    <lastmod>2022-07-23T20:35:07+02:00</lastmod>
+    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
   </url><url>
     <loc>https://adno.app/exemple/</loc>
-    <lastmod>2022-07-23T20:35:07+02:00</lastmod>
+    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
+  </url><url>
+    <loc>https://adno.app/exemple/nautre/</loc>
+    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
   </url><url>
     <loc>https://adno.app/exemple/tabula-peutingeriana/</loc>
     <lastmod>2022-07-23T20:35:07+02:00</lastmod>
@@ -34,6 +37,9 @@
   </url><url>
     <loc>https://adno.app/exemple/colton/</loc>
     <lastmod>2022-07-20T20:48:31+02:00</lastmod>
+  </url><url>
+    <loc>https://adno.app/exemple/biplan/</loc>
+    <lastmod>2022-07-20T12:24:21+02:00</lastmod>
   </url><url>
     <loc>https://adno.app/post/</loc>
     <lastmod>2022-07-10T20:59:25+02:00</lastmod>
