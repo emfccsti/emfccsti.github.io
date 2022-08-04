@@ -1,74 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://adno.app/</loc>
-    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/</loc>
-    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/nautre/</loc>
-    <lastmod>2022-07-24T16:06:23+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/tabula-peutingeriana/</loc>
-    <lastmod>2022-07-23T20:35:07+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/blue-marble-2012/</loc>
-    <lastmod>2022-07-23T08:15:13+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/cellxplorer/</loc>
-    <lastmod>2022-07-23T08:03:34+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/james-webb/</loc>
-    <lastmod>2022-07-23T07:56:29+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/tite-live/</loc>
-    <lastmod>2022-07-23T07:51:50+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/bd/</loc>
-    <lastmod>2022-07-22T20:35:07+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/cassini/</loc>
-    <lastmod>2022-07-22T18:30:05+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/saint-savin/</loc>
-    <lastmod>2022-07-22T18:30:05+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/panorama-de-hong-kong/</loc>
-    <lastmod>2022-07-21T20:41:43+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/colton/</loc>
-    <lastmod>2022-07-20T20:48:31+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/exemple/biplan/</loc>
-    <lastmod>2022-07-20T12:24:21+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/post/</loc>
-    <lastmod>2022-07-10T20:59:25+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/post/2022-06-23/</loc>
-    <lastmod>2022-07-10T20:59:25+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/contact-feedback/</loc>
-    <lastmod>2022-05-29T15:15:20+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/contact/</loc>
-    <lastmod>2022-05-29T14:41:33+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/mentions-legales/</loc>
-    <lastmod>2022-05-26T21:08:09+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/mode-emploi/</loc>
-    <lastmod>2022-05-25T13:18:58+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/post/2022-05-03/</loc>
-    <lastmod>2022-05-03T20:59:25+02:00</lastmod>
-  </url><url>
-    <loc>https://adno.app/a-propos/</loc>
-  </url><url>
-    <loc>https://adno.app/categories/</loc>
-  </url><url>
-    <loc>https://adno.app/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://adno.app/fr/sitemap.xml</loc>
+    
+      <lastmod>2022-07-24T16:06:23+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://adno.app/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

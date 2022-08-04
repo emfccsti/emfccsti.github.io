@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adno</title>
+    <link>https://adno.app/en/</link>
+    <description>Recent content on Adno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://adno.app/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to</title>
+      <link>https://adno.app/en/how-to/</link>
+      <pubDate>Thu, 04 Aug 2022 13:18:58 +0200</pubDate>
+      
+      <guid>https://adno.app/en/how-to/</guid>
+      <description>To get started Adno is a IIIF image editor/viewer project. Eventually, it will allow to annotate and create stories on these images, to share them too.
+For the moment, on the home page, it is only possible to create annotations, view them, modify them, but not to save them.
+ Creating annotations Shift key then click and drag to select an area, possibly enter a note, then save by clicking on OK.</description>
+    </item>
+    
+    <item>
+      <title>Adno</title>
+      <link>https://adno.app/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adno.app/en/about/</guid>
+      <description>Adno is a web application for viewing, editing, and peer-to-peer sharing of narratives and stories on IIIF images.
+Developed by Espace Mendès France (Poitiers), in partnership with the Saint-Savin-sur-Gartempe abbey and the valley of frescoes, the Sainte-Geneviève Library (Paris), the Cité internationale de la bande-dessinée et de l’image (Angoulême), Poitiers’ museums, La Rochelle’s Natural History Museum, Adno was selected among the sixteen winners of the 2022 edition of the call for innovative digital services projects led by the Ministry of Culture.</description>
+    </item>
+    
+  </channel>
+</rss>
