@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: default-src 'self' 'unsafe-inline' ; script-src https://*.plausible.io;
+  Content-Security-Policy: default-src 'self' ; script-src https://*.plausible.io;
