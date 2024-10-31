@@ -1,8 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide de référence on</title><link>https://adno.app/fr/docs/references/</link><description>Recent content in Guide de référence on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 18 Jan 2022 19:58:14 +0100</lastBuildDate><atom:link href="https://adno.app/fr/docs/references/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation de Adno</title><link>https://adno.app/fr/docs/references/installation/</link><pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate><guid>https://adno.app/fr/docs/references/installation/</guid><description>Prerequis #
-Avant de personnaliser et d&amp;rsquo;installer Adno sur votre ordinateur ou sur un serveur, vous devez d&amp;rsquo;abord installer les éléments suivants :
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide de référence on </title>
+    <link>https://adno.app/fr/docs/references/</link>
+    <description>Recent content in Guide de référence on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2022 19:58:14 +0100</lastBuildDate><atom:link href="https://adno.app/fr/docs/references/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation de Adno</title>
+      <link>https://adno.app/fr/docs/references/installation/</link>
+      <pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/references/installation/</guid>
+      <description>Prerequis #Avant de personnaliser et d&amp;rsquo;installer Adno sur votre ordinateur ou sur un serveur, vous devez d&amp;rsquo;abord installer les éléments suivants :
 Node.js, la plateforme de développement Javascript utilisée par Adno, Yarn un gestionnaires de paquets et de dépendances pour Node.js. Il est important de noter qu&amp;rsquo;Adno nécessite un accès à Internet pour fonctionner, même en mode local.
-Récupérer Adno #
-Vous avez deux options pour obtenir Adno : vous pouvez télécharger l&amp;rsquo;archive de la dernière version et la dézipper, ou bien cloner le dépôt des sources d&amp;rsquo;Adno en utilisant la commande git.</description></item><item><title>Principes de IIIF</title><link>https://adno.app/fr/docs/references/iiif/</link><pubDate>Thu, 12 Nov 2020 13:26:54 +0100</pubDate><guid>https://adno.app/fr/docs/references/iiif/</guid><description>L’initiative IIIF, pour International Image Interoperability Framework, a vu le jour en réponse au constat que la diffusion d’images patrimoniales sur le web était « trop lente, trop coûteuse, trop décousue, trop complexe ». IIIF apporte une solution pérenne et élégante à ces difficultés en conciliant interopérabilité, sobriété et accessibilité.
-Elle a été lancée en 2010 par l&amp;rsquo;université de Stanford et par plusieurs grandes bibliothèques. Le Consortium IIIF a été créé en 2015 par onze institutions : la British Library, Artstor, Die Bayerische Staatsbibliothek, La Bibliothèque Nationale de France, Nasjonalbiblioteket (Norvège), Wellcome Trust, et les universités d&amp;rsquo;Oxford, Stanford, Cornell, Princeton et Yale.</description></item><item><title>Utilisation de IPFS</title><link>https://adno.app/fr/docs/references/ipfs/</link><pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate><guid>https://adno.app/fr/docs/references/ipfs/</guid><description>Qu&amp;rsquo;est-ce qu&amp;rsquo;IPFS ? #
-IPFS, le système de fichier interplanétaire, est un protocole pair à pair de distributions de contenus numériques. Son fonctionnement est décentralisé. La diffusion d&amp;rsquo;un fichier ne repose plus sur un serveur comme pour le web mais sur un réseau de nœuds interconnectés. Votre ordinateur ou votre navigateur peut constituer un de ces nœuds.
-IPFS utilise un système d&amp;rsquo;adressage décentralisé basé sur le contenu au lieu d&amp;rsquo;un lien vers un emplacement.</description></item></channel></rss>
+Récupérer Adno #Vous avez deux options pour obtenir Adno : vous pouvez télécharger l&amp;rsquo;archive de la dernière version et la dézipper, ou bien cloner le dépôt des sources d&amp;rsquo;Adno en utilisant la commande git.</description>
+    </item>
+    
+    <item>
+      <title>Principes de IIIF</title>
+      <link>https://adno.app/fr/docs/references/iiif/</link>
+      <pubDate>Thu, 12 Nov 2020 13:26:54 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/docs/references/iiif/</guid>
+      <description>L’initiative IIIF, pour International Image Interoperability Framework, a vu le jour en réponse au constat que la diffusion d’images patrimoniales sur le web était « trop lente, trop coûteuse, trop décousue, trop complexe ». IIIF apporte une solution pérenne et élégante à ces difficultés en conciliant interopérabilité, sobriété et accessibilité.
+Elle a été lancée en 2010 par l&amp;rsquo;université de Stanford et par plusieurs grandes bibliothèques. Le Consortium IIIF a été créé en 2015 par onze institutions : la British Library, Artstor, Die Bayerische Staatsbibliothek, La Bibliothèque Nationale de France, Nasjonalbiblioteket (Norvège), Wellcome Trust, et les universités d&amp;rsquo;Oxford, Stanford, Cornell, Princeton et Yale.</description>
+    </item>
+    
+    <item>
+      <title>Utilisation de IPFS</title>
+      <link>https://adno.app/fr/docs/references/ipfs/</link>
+      <pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/references/ipfs/</guid>
+      <description>Qu&amp;rsquo;est-ce qu&amp;rsquo;IPFS ? #IPFS, le système de fichier interplanétaire, est un protocole pair à pair de distributions de contenus numériques. Son fonctionnement est décentralisé. La diffusion d&amp;rsquo;un fichier ne repose plus sur un serveur comme pour le web mais sur un réseau de nœuds interconnectés. Votre ordinateur ou votre navigateur peut constituer un de ces nœuds.
+IPFS utilise un système d&amp;rsquo;adressage décentralisé basé sur le contenu au lieu d&amp;rsquo;un lien vers un emplacement.</description>
+    </item>
+    
+  </channel>
+</rss>

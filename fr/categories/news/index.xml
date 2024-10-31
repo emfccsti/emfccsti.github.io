@@ -1,16 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on</title><link>https://adno.app/fr/categories/news/</link><description>Recent content in News on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 14 Jul 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Nouvelle version de Adno</title><link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link><pubDate>Sun, 14 Jul 2024 12:20:42 +0100</pubDate><guid>https://adno.app/fr/blog/nouvelle-version-de-adno/</guid><description>Cette nouvelle version de Adno arrive avec les corrections et améliorations suivantes :
-correction des bugs, merci aux usagers qui en ont signalé et parfois même proposé des correctifs ; toilettage de l’interface pour le rendre plus clair et plus homogène ; amélioration de l’ergonomie pour que Adno soit toujours plus simple et intuitif à utiliser ; ajout d&amp;rsquo;une aide intégrée (le bouton ?) ; développement de deux nouvelles fonctionnalités : visualisation des annotations par mots clés, le mode lecture libre (encore expérimental).</description></item><item><title>Une table tactile alimentée par Adno</title><link>https://adno.app/fr/blog/une-table-tactile-aliment%C3%A9e-par-adno/</link><pubDate>Thu, 11 Jul 2024 12:20:42 +0100</pubDate><guid>https://adno.app/fr/blog/une-table-tactile-aliment%C3%A9e-par-adno/</guid><description>Cyril Faucher et Annick Lassus ont mobilisé des étudiants de l&amp;rsquo;IUT de La Rochelle pour travailler sur Adno. Ils ont développé Story Tab, une interface avec des vues multiples pour table tactile. Ce travail a été réalisé dans le cadre de l&amp;rsquo;initiative J’peux pas, j’ai musée ! pour le compte des musées de Poitiers.
-L&amp;rsquo;objectif des musées de Poitiers est de présenter sur une table tactile le monumental Le Siège de Poitiers en 1569, une peinture réalisée par François Nautré en 1619, pendant sa restauration.</description></item><item><title>Les bibliothèques Gallica en marque blanche</title><link>https://adno.app/fr/blog/les-biblioth%C3%A8ques-gallica-en-marque-blanche/</link><pubDate>Mon, 19 Feb 2024 12:20:42 +0100</pubDate><guid>https://adno.app/fr/blog/les-biblioth%C3%A8ques-gallica-en-marque-blanche/</guid><description>Gallica, la bibliothèque numérique de la Bibliothèque nationale de France (BnF) et de ses partenaires offre l’accès à plus de dix millions de documents : imprimés — livres, presse et revues -, manuscrits, documents sonores, documents iconographiques, cartes et plans, vidéos.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on </title>
+    <link>https://adno.app/fr/categories/news/</link>
+    <description>Recent content in News on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jul 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nouvelle version de Adno</title>
+      <link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link>
+      <pubDate>Sun, 14 Jul 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/nouvelle-version-de-adno/</guid>
+      <description>Cette nouvelle version de Adno arrive avec les corrections et améliorations suivantes :
+correction des bugs, merci aux usagers qui en ont signalé et parfois même proposé des correctifs ; toilettage de l’interface pour le rendre plus clair et plus homogène ; amélioration de l’ergonomie pour que Adno soit toujours plus simple et intuitif à utiliser ; ajout d&amp;rsquo;une aide intégrée (le bouton ?) ; développement de deux nouvelles fonctionnalités : visualisation des annotations par mots clés, le mode lecture libre (encore expérimental).</description>
+    </item>
+    
+    <item>
+      <title>Nouvelle version de Adno</title>
+      <link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link>
+      <pubDate>Sun, 14 Jul 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/nouvelle-version-de-adno/</guid>
+      <description>Cette nouvelle version de Adno arrive avec les corrections et améliorations suivantes :
+correction des bugs, merci aux usagers qui en ont signalé et parfois même proposé des correctifs ; toilettage de l’interface pour le rendre plus clair et plus homogène ; amélioration de l’ergonomie pour que Adno soit toujours plus simple et intuitif à utiliser ; ajout d&amp;rsquo;une aide intégrée (le bouton ?) ; développement de deux nouvelles fonctionnalités : visualisation des annotations par mots clés, le mode lecture libre (encore expérimental).</description>
+    </item>
+    
+    <item>
+      <title>Une table tactile alimentée par Adno</title>
+      <link>https://adno.app/fr/blog/une-table-tactile-aliment%C3%A9e-par-adno/</link>
+      <pubDate>Thu, 11 Jul 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/une-table-tactile-aliment%C3%A9e-par-adno/</guid>
+      <description>Cyril Faucher et Annick Lassus ont mobilisé des étudiants de l&amp;rsquo;IUT de La Rochelle pour travailler sur Adno. Ils ont développé Story Tab, une interface avec des vues multiples pour table tactile. Ce travail a été réalisé dans le cadre de l&amp;rsquo;initiative J’peux pas, j’ai musée ! pour le compte des musées de Poitiers.
+L&amp;rsquo;objectif des musées de Poitiers est de présenter sur une table tactile le monumental Le Siège de Poitiers en 1569, une peinture réalisée par François Nautré en 1619, pendant sa restauration.</description>
+    </item>
+    
+    <item>
+      <title>Les bibliothèques Gallica en marque blanche</title>
+      <link>https://adno.app/fr/blog/les-biblioth%C3%A8ques-gallica-en-marque-blanche/</link>
+      <pubDate>Mon, 19 Feb 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/les-biblioth%C3%A8ques-gallica-en-marque-blanche/</guid>
+      <description>Gallica, la bibliothèque numérique de la Bibliothèque nationale de France (BnF) et de ses partenaires offre l’accès à plus de dix millions de documents : imprimés — livres, presse et revues -, manuscrits, documents sonores, documents iconographiques, cartes et plans, vidéos.
 La BnF a aussi souhaité mutualiser le développement de Gallica, partager son savoir-faire et compléter ses collections, en proposant une offre de bibliothèque numérique en marque blanche.
-Fort logiquement puisque la BnF fut à l&amp;rsquo;initiative de IIIF, Gallica a adopté ce protocole pour la visualisation et le partage des documents graphiques et propose des API.</description></item><item><title>Comment extraire les images d'un manifeste</title><link>https://adno.app/fr/blog/comment-extraire-les-images-dun-manifeste/</link><pubDate>Sun, 10 Mar 2024 09:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/comment-extraire-les-images-dun-manifeste/</guid><description>Parfois, Adno n&amp;rsquo;accepte pas certains manifestes. En attendant que ce bug soit résolu, vous pouvez extraire manuellement l&amp;rsquo;image qui vous intéresse, récupérer son URL et l&amp;rsquo;entrer dans Adno.
-URL du manifeste : Charger Réinitialiser La base du code de cette fonctionnalité provient du site IIIF Training.</description></item><item><title>Nouvelles d'Adno et annonce de deux ateliers : à Nancy le 31 janvier et à Poitiers le 13 mars 2024.</title><link>https://adno.app/fr/blog/nouvelles-dadno-et-annonce-de-deux-ateliers-%C3%A0-nancy-le-31-janvier-et-%C3%A0-poitiers-le-13-mars-2024./</link><pubDate>Mon, 15 Jan 2024 22:20:42 +0100</pubDate><guid>https://adno.app/fr/blog/nouvelles-dadno-et-annonce-de-deux-ateliers-%C3%A0-nancy-le-31-janvier-et-%C3%A0-poitiers-le-13-mars-2024./</guid><description>2023 aura été l’année du développement de Adno. Poursuivons le mouvement en faisant que 2024 soit l’année de son appropriation la plus large.
+Fort logiquement puisque la BnF fut à l&amp;rsquo;initiative de IIIF, Gallica a adopté ce protocole pour la visualisation et le partage des documents graphiques et propose des API.</description>
+    </item>
+    
+    <item>
+      <title>Comment extraire les images d&#39;un manifeste</title>
+      <link>https://adno.app/fr/blog/comment-extraire-les-images-dun-manifeste/</link>
+      <pubDate>Sun, 10 Mar 2024 09:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/comment-extraire-les-images-dun-manifeste/</guid>
+      <description>Parfois, Adno n&amp;rsquo;accepte pas certains manifestes. En attendant que ce bug soit résolu, vous pouvez extraire manuellement l&amp;rsquo;image qui vous intéresse, récupérer son URL et l&amp;rsquo;entrer dans Adno.
+URL du manifeste : Charger Réinitialiser La base du code de cette fonctionnalité provient du site IIIF Training.</description>
+    </item>
+    
+    <item>
+      <title>Nouvelles d&#39;Adno et annonce de deux ateliers : à Nancy le 31 janvier et à Poitiers le 13 mars 2024.</title>
+      <link>https://adno.app/fr/blog/nouvelles-dadno-et-annonce-de-deux-ateliers-%C3%A0-nancy-le-31-janvier-et-%C3%A0-poitiers-le-13-mars-2024./</link>
+      <pubDate>Mon, 15 Jan 2024 22:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/nouvelles-dadno-et-annonce-de-deux-ateliers-%C3%A0-nancy-le-31-janvier-et-%C3%A0-poitiers-le-13-mars-2024./</guid>
+      <description>2023 aura été l’année du développement de Adno. Poursuivons le mouvement en faisant que 2024 soit l’année de son appropriation la plus large.
 Adno est une application web, libre et gratuite, permettant de réaliser et de partager des explorations commentées d’images IIIF ou non : reproductions d&amp;rsquo;œuvres d’art, créations graphiques, cartes, dessins, photographies, BD, etc.
-Adno est dédiée à la médiation culturelle, scientifique et artistique, ainsi qu’à la recherche et à l’enseignement.</description></item><item><title>Comment insérer des cartes statiques dans les annotations ?</title><link>https://adno.app/fr/blog/comment-ins%C3%A9rer-des-cartes-statiques-dans-les-annotations/</link><pubDate>Thu, 07 Sep 2023 22:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/comment-ins%C3%A9rer-des-cartes-statiques-dans-les-annotations/</guid><description>Il est intéressant de pouvoir insérer un détail d&amp;rsquo;une carte contemporaine dans une annotation par exemple pour indiquer une correspondance sur une cartes ancienne ou sur une vue géographique, ou bien encore pour apporter une information visuelle complémentaire.
+Adno est dédiée à la médiation culturelle, scientifique et artistique, ainsi qu’à la recherche et à l’enseignement.</description>
+    </item>
+    
+    <item>
+      <title>Comment insérer des cartes statiques dans les annotations ?</title>
+      <link>https://adno.app/fr/blog/comment-ins%C3%A9rer-des-cartes-statiques-dans-les-annotations/</link>
+      <pubDate>Thu, 07 Sep 2023 22:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/comment-ins%C3%A9rer-des-cartes-statiques-dans-les-annotations/</guid>
+      <description>Il est intéressant de pouvoir insérer un détail d&amp;rsquo;une carte contemporaine dans une annotation par exemple pour indiquer une correspondance sur une cartes ancienne ou sur une vue géographique, ou bien encore pour apporter une information visuelle complémentaire.
 Une façon simple de le faire est d&amp;rsquo;utiliser le service en ligne Geoapify1.
-Static Map API est l&amp;rsquo;une des nombreuses fonctionnalités que propose Geoapify. Ce service est payant, cependant il propose une offre gratuite avec des quotas convenables2 et qui ne nécessite pas de fournir de données bancaires.</description></item><item><title>Comment visualiser votre projet Adno dans une page web?</title><link>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</link><pubDate>Fri, 02 Jun 2023 09:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</guid><description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
-Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description></item><item><title>Rendez-vous pratique Adno le 7 juin à l'EMF Poiters</title><link>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</link><pubDate>Sat, 22 Apr 2023 09:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</guid><description>L&amp;rsquo;Espace Mendès France présente Adno, un dispositif innovant de médiation scientifique, culturelle et artistique.
+Static Map API est l&amp;rsquo;une des nombreuses fonctionnalités que propose Geoapify. Ce service est payant, cependant il propose une offre gratuite avec des quotas convenables2 et qui ne nécessite pas de fournir de données bancaires.</description>
+    </item>
+    
+    <item>
+      <title>Comment visualiser votre projet Adno dans une page web?</title>
+      <link>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</link>
+      <pubDate>Fri, 02 Jun 2023 09:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</guid>
+      <description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
+Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description>
+    </item>
+    
+    <item>
+      <title>Rendez-vous pratique Adno le 7 juin à l&#39;EMF Poiters</title>
+      <link>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</link>
+      <pubDate>Sat, 22 Apr 2023 09:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</guid>
+      <description>L&amp;rsquo;Espace Mendès France présente Adno, un dispositif innovant de médiation scientifique, culturelle et artistique.
 Adno permet d’explorer dans le détail et de commenter des œuvres d’arts, des photographies, des graphiques ou toute images numériques en haute définition. C’est une application web simple et ergonomique, libre et gratuite, permettant de visualiser, d&amp;rsquo;éditer et de partager des récits et des parcours sur des images en ligne, statiques et IIIF.
-Concrètement, cette application tout en un présente les caractéristiques suivantes :</description></item><item><title>Utiliser Adno avec des images de Gallica</title><link>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</link><pubDate>Fri, 28 Apr 2023 09:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</guid><description>Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. Elle propose à la consultation en ligne des millions de documents. Ils sont accessibles en IIIF. Il en est souvent de même des bibliothèques numériques « Gallica marque blanche ».
-Cependant, les URL des manifestes ou des images ne sont pas directement récupérables. Le logo IIIF renvoie à un visualiseur IIIF et il faut accéder au volet d&amp;rsquo;information pour récupérer le lien utilisable dans Adno.</description></item><item><title>Nouvelle version de Adno</title><link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link><pubDate>Sat, 15 Apr 2023 09:19:42 +0100</pubDate><guid>https://adno.app/fr/blog/nouvelle-version-de-adno/</guid><description>Cette version corrige de nombreux bugs et stabilise l&amp;rsquo;interface et les fonctionnalités de Adno.
-Principales améliorations :
-nouvel éditeur d&amp;rsquo;annotations avec possibilité d&amp;rsquo;écrire en Markdown, réécriture de l&amp;rsquo;interface en mode lecture, introduction de paramètres pour le mode lecture, vue globale pour naviguer dans l&amp;rsquo;image, optionnelle en mode lecture, rotation possible de l&amp;rsquo;image, cf dans les paramètres (activée aussi en mode édition), interface multilingue, en français et en anglais pour l&amp;rsquo;heure, mais vous pouvez contribuer et proposer d&amp;rsquo;autres langues, utilisation du format json standard du Web Annotation Data Model pour enregistrer et partager les fichiers Adno.</description></item></channel></rss>
+Concrètement, cette application tout en un présente les caractéristiques suivantes :</description>
+    </item>
+    
+    <item>
+      <title>Utiliser Adno avec des images de Gallica</title>
+      <link>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</link>
+      <pubDate>Fri, 28 Apr 2023 09:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</guid>
+      <description>Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. Elle propose à la consultation en ligne des millions de documents. Ils sont accessibles en IIIF. Il en est souvent de même des bibliothèques numériques « Gallica marque blanche ».
+Cependant, les URL des manifestes ou des images ne sont pas directement récupérables. Le logo IIIF renvoie à un visualiseur IIIF et il faut accéder au volet d&amp;rsquo;information pour récupérer le lien utilisable dans Adno.</description>
+    </item>
+    
+  </channel>
+</rss>

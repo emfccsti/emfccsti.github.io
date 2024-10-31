@@ -1,8 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>L'essentiel on</title><link>https://adno.app/fr/docs/prologue/</link><description>Recent content in L'essentiel on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 24 Dec 2022 14:05:38 +0000</lastBuildDate><atom:link href="https://adno.app/fr/docs/prologue/index.xml" rel="self" type="application/rss+xml"/><item><title>À-propos de Adno</title><link>https://adno.app/fr/docs/prologue/about/</link><pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate><guid>https://adno.app/fr/docs/prologue/about/</guid><description>Porté par l&amp;rsquo;Espace Mendès France - Poitiers, en partenariat avec l&amp;rsquo;Abbaye de Saint-Savin-sur-Gartempe et la vallée des fresques, la Bibliothèque Sainte-Geneviève, Paris, la Cité internationale de la bande dessinée et de l&amp;rsquo;image, Angoulême, les Musées de Poitiers, le Muséum d’histoire naturelle de La Rochelle, Adno a été retenu parmi les seize lauréats de l’édition 2022 de l’appel à projets Services numériques innovants porté par le ministère de la Culture.
-Adno est développé et soutenu par la Serli.</description></item><item><title>Mode d'emploi rapide</title><link>https://adno.app/fr/docs/prologue/quick-start/</link><pubDate>Thu, 24 Nov 2022 10:45:41 +0000</pubDate><guid>https://adno.app/fr/docs/prologue/quick-start/</guid><description>Une application en ligne #
-Le plus simple pour commencer est d&amp;rsquo;utiliser l&amp;rsquo;application en ligne du projet. Elle est gratuite et ne nécessite pas d&amp;rsquo;inscription. Vous pouvez aussi partir d&amp;rsquo;un exemple.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L&#39;essentiel on </title>
+    <link>https://adno.app/fr/docs/prologue/</link>
+    <description>Recent content in L&#39;essentiel on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Dec 2022 14:05:38 +0000</lastBuildDate><atom:link href="https://adno.app/fr/docs/prologue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À-propos de Adno</title>
+      <link>https://adno.app/fr/docs/prologue/about/</link>
+      <pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/prologue/about/</guid>
+      <description>Porté par l&amp;rsquo;Espace Mendès France - Poitiers, en partenariat avec l&amp;rsquo;Abbaye de Saint-Savin-sur-Gartempe et la vallée des fresques, la Bibliothèque Sainte-Geneviève, Paris, la Cité internationale de la bande dessinée et de l&amp;rsquo;image, Angoulême, les Musées de Poitiers, le Muséum d’histoire naturelle de La Rochelle, Adno a été retenu parmi les seize lauréats de l’édition 2022 de l’appel à projets Services numériques innovants porté par le ministère de la Culture.
+Adno est développé et soutenu par la Serli.</description>
+    </item>
+    
+    <item>
+      <title>Mode d&#39;emploi rapide</title>
+      <link>https://adno.app/fr/docs/prologue/quick-start/</link>
+      <pubDate>Thu, 24 Nov 2022 10:45:41 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/prologue/quick-start/</guid>
+      <description>Une application en ligne #Le plus simple pour commencer est d&amp;rsquo;utiliser l&amp;rsquo;application en ligne du projet. Elle est gratuite et ne nécessite pas d&amp;rsquo;inscription. Vous pouvez aussi partir d&amp;rsquo;un exemple.
 Essayer maintenant ! Exemples
 Comme Adno est un logiciel libre, vous pouvez aussi l&amp;rsquo;installer pour vous-même et les autres. Les sources et les instructions d&amp;rsquo;installation sont accessibles sur Github.
-👉 Adno est en cours de développement, ses fonctionnalités et son interface sont susceptibles de changer.</description></item><item><title>Enquête sur les usages d'Adno</title><link>https://adno.app/fr/docs/prologue/survey/</link><pubDate>Wed, 04 Oct 2023 19:08:31 +0000</pubDate><guid>https://adno.app/fr/docs/prologue/survey/</guid><description>Cliquer sur le bouton pour accèder au formulaire.
-Enquête Adno
-N&amp;rsquo;hésitez pas à nous contacter via le formulaire en ligne.</description></item></channel></rss>
+👉 Adno est en cours de développement, ses fonctionnalités et son interface sont susceptibles de changer.</description>
+    </item>
+    
+    <item>
+      <title>Enquête sur les usages d&#39;Adno</title>
+      <link>https://adno.app/fr/docs/prologue/survey/</link>
+      <pubDate>Wed, 04 Oct 2023 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/prologue/survey/</guid>
+      <description>Cliquer sur le bouton pour accèder au formulaire.
+Enquête AdnoN&amp;rsquo;hésitez pas à nous contacter via le formulaire en ligne.</description>
+    </item>
+    
+  </channel>
+</rss>
