@@ -92,6 +92,13 @@
   </url>
   
   <url>
+    <loc>https://adno.app/fr/docs/references/gdrive/</loc>
+    <lastmod>2024-10-27T09:42:23+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://adno.app/fr/docs/references/ipfs/</loc>
     <lastmod>2022-12-27T09:42:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
