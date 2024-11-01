@@ -33,16 +33,21 @@ Elle a été lancée en 2010 par l&amp;rsquo;université de Stanford et par plus
       <pubDate>Wed, 23 Oct 2024 19:08:31 +0000</pubDate>
       
       <guid>https://adno.app/fr/docs/references/dropbox/</guid>
-      <description></description>
+      <description>https://www.dropbox.com/
+Télécharger une image, un manifeste ou un proje Adno.
+Récupérer le lien de partage, juste après l&amp;rsquo;import du document ou à partir de l&amp;rsquo;interface.
+Ensuite, dans l&amp;rsquo;url, changer la valeur du dernier paramètre : remplacer dl=0 par dl=1. Vous pouvez transmettre cette URL et inviter votre correspondant à la copier dans l&amp;rsquo;interface de Adno.</description>
     </item>
     
     <item>
-      <title>Stockage avec Dropbox</title>
+      <title>Stockage avec Google Drive</title>
       <link>https://adno.app/fr/docs/references/gdrive/</link>
       <pubDate>Wed, 23 Oct 2024 19:08:31 +0000</pubDate>
       
       <guid>https://adno.app/fr/docs/references/gdrive/</guid>
-      <description></description>
+      <description>Google Drive offre une solution utilisée par de nombreuses personnes pour déposer et partager des fichiers.
+Pour obtenir un lien de téléchargement direct d&amp;rsquo;une image, d&amp;rsquo;un manifeste IIIF ou d&amp;rsquo;un projet Adno :
+connectez-vous à votre compte Google Drive, chargez le fichier puis faites un clic droit dessus, récupérez le lien de partage : cliquez sur &amp;ldquo;Partager&amp;rdquo;, dans la fenêtre qui s&amp;rsquo;ouvre, sous &amp;ldquo;Obtenir le lien&amp;rdquo;, rendre le fichier accessible en sélectionnant &amp;ldquo;Toute personne disposant du lien&amp;rdquo;, cliquez sur &amp;ldquo;Copier le lien&amp;rdquo;.</description>
     </item>
     
     <item>
