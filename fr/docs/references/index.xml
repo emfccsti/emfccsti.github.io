@@ -28,6 +28,15 @@ Elle a été lancée en 2010 par l&amp;rsquo;université de Stanford et par plus
     </item>
     
     <item>
+      <title>Stockage avec Dropbox</title>
+      <link>https://adno.app/fr/docs/references/dropbox/</link>
+      <pubDate>Wed, 23 Oct 2024 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/references/dropbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Utilisation de IPFS</title>
       <link>https://adno.app/fr/docs/references/ipfs/</link>
       <pubDate>Fri, 23 Dec 2022 19:08:31 +0000</pubDate>
@@ -35,6 +44,15 @@ Elle a été lancée en 2010 par l&amp;rsquo;université de Stanford et par plus
       <guid>https://adno.app/fr/docs/references/ipfs/</guid>
       <description>Qu&amp;rsquo;est-ce qu&amp;rsquo;IPFS ? #IPFS, le système de fichier interplanétaire, est un protocole pair à pair de distributions de contenus numériques. Son fonctionnement est décentralisé. La diffusion d&amp;rsquo;un fichier ne repose plus sur un serveur comme pour le web mais sur un réseau de nœuds interconnectés. Votre ordinateur ou votre navigateur peut constituer un de ces nœuds.
 IPFS utilise un système d&amp;rsquo;adressage décentralisé basé sur le contenu au lieu d&amp;rsquo;un lien vers un emplacement.</description>
+    </item>
+    
+    <item>
+      <title>Restrictions CORS</title>
+      <link>https://adno.app/fr/docs/references/cors/</link>
+      <pubDate>Wed, 23 Oct 2024 19:08:31 +0000</pubDate>
+      
+      <guid>https://adno.app/fr/docs/references/cors/</guid>
+      <description>Le Cross-Origin Resource Sharing ou CORS est un mécanisme qui permet au navigateur de vérifier auprès du serveur tiers si la requête est autorisée avant tout transfert de données. Hors ce transfert n&amp;rsquo;est pas toujours autorisé.</description>
     </item>
     
   </channel>

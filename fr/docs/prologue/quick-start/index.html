@@ -345,7 +345,17 @@ pre {
             
               
                 
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/dropbox/">Stockage avec Dropbox</a></li>
+              
+            
+              
+                
                 <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/ipfs/">Utilisation de IPFS</a></li>
+              
+            
+              
+                
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/cors/">Restrictions CORS</a></li>
               
             
           </ul>
@@ -530,7 +540,17 @@ pre {
             
               
                 
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/dropbox/">Stockage avec Dropbox</a></li>
+              
+            
+              
+                
                 <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/ipfs/">Utilisation de IPFS</a></li>
+              
+            
+              
+                
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/cors/">Restrictions CORS</a></li>
               
             
           </ul>
@@ -629,7 +649,17 @@ pre {
             
               
                 
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/dropbox/">Stockage avec Dropbox</a></li>
+              
+            
+              
+                
                 <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/ipfs/">Utilisation de IPFS</a></li>
+              
+            
+              
+                
+                <li><a class="docs-link rounded" href="https://adno.app/fr/docs/references/cors/">Restrictions CORS</a></li>
               
             
           </ul>
@@ -672,6 +702,7 @@ pre {
     </li>
     <li><a href="#retrouver-ses-projets">Retrouver ses projets</a></li>
     <li><a href="#partager-ses-projets">Partager ses projets</a></li>
+    <li><a href="#difficultés-habituelles">Difficultés habituelles</a></li>
     <li><a href="#aide">Aide</a></li>
   </ul>
 </nav>
@@ -700,6 +731,7 @@ pre {
     </li>
     <li><a href="#retrouver-ses-projets">Retrouver ses projets</a></li>
     <li><a href="#partager-ses-projets">Partager ses projets</a></li>
+    <li><a href="#difficultés-habituelles">Difficultés habituelles</a></li>
     <li><a href="#aide">Aide</a></li>
   </ul>
 </nav>
@@ -741,6 +773,7 @@ pre {
     </li>
     <li><a href="#retrouver-ses-projets">Retrouver ses projets</a></li>
     <li><a href="#partager-ses-projets">Partager ses projets</a></li>
+    <li><a href="#difficultés-habituelles">Difficultés habituelles</a></li>
     <li><a href="#aide">Aide</a></li>
   </ul>
 </nav>
@@ -769,6 +802,7 @@ pre {
     </li>
     <li><a href="#retrouver-ses-projets">Retrouver ses projets</a></li>
     <li><a href="#partager-ses-projets">Partager ses projets</a></li>
+    <li><a href="#difficultés-habituelles">Difficultés habituelles</a></li>
     <li><a href="#aide">Aide</a></li>
   </ul>
 </nav>
@@ -921,8 +955,9 @@ pre {
 
 <h2 id="partager-ses-projets">Partager ses projets <a href="#partager-ses-projets" class="anchor" aria-hidden="true">#</a></h2>
 <p>Commencez par télécharger votre projet Adno. Il se présente sous la forme d&rsquo;un simple fichier texte au <a href="https://json.org/json-fr.html">format json</a>.</p>
-<p>Ce fichier est en général très léger. Vous pouvez donc facilement le transmettre par mail. Votre correspondant pourra ainsi le visualiser mais aussi proposer des variantes ou des corrections à votre projet.</p>
+<p>Ce fichier est en général très léger. Vous pouvez donc facilement le transmettre par mail. Après l&rsquo;avoir importé dans Adno, votre correspondant pourra le visualiser mais aussi proposer des variantes ou des corrections à votre projet.</p>
 <p>Vous pouvez aussi déposer votre fichier en ligne et diffuser son URL. Pour ce faire, il est possible d&rsquo;utiliser un site web ou un serveur de fichiers. Le protocole IPFS offre une alternative décentralisée intéressante.</p>
+<p>Consultez les pages <a href="/fr/docs/references/gdrive/">Google Drive</a>, <a href="/fr/docs/references/dropbox/">Dropbox</a> ou <a href="/fr/docs/references/ipfs/">IPFS</a> du guide de référence de la documentation pour découvrir comment procéder avec ces services pour déposer des images ou des projets Adno.</p>
 <p>Dès lors que votre projet Adno est en ligne, il est possible de le rendre visible dans une page web en insérant une balise <code>iframe</code> en ajustant les paramètres ci-après.</p>
 <pre><code>&lt;iframe 
     src=&quot;https://w.adno.app/#/embed?url=METTRE l'URL ICI&quot; 
@@ -934,6 +969,13 @@ pre {
 </code></pre>
 <p>À noter qu&rsquo;en insérant l&rsquo;URL d&rsquo;une image IIIF ou non, ou d&rsquo;un manifeste IIIF, vous pouvez ainsi disposer d&rsquo;un visualiseur IIIF facile à installer.</p>
 <p>Il est aussi possible d&rsquo;utiliser le composant <a href="https://github.com/adnodev/adno-views-tag">Adno views tags</a> pour disposer de différents types de visualisations (listes, diapos, etc.).</p>
+<h2 id="difficultés-habituelles">Difficultés habituelles <a href="#difficult%c3%a9s-habituelles" class="anchor" aria-hidden="true">#</a></h2>
+<p>Adno est une application en ligne qui utilise des ressources externes en ligne elles aussi. Cette façon de faire peut être soumise à des restrictions qui peuvent impacter le fonctionnemet Adno et de son intégration dans des pages web.</p>
+<p>Les cas les plus fréquents :</p>
+<ul>
+<li>Il n&rsquo;est pas possible d&rsquo;insérer une ressources désignées par une adresse débutant par <code>http</code> dans un site sécurisé accessible en <code>https</code>. Par exemple, si vous déposez une image sur le service <a href="http://iiifhosting.com/">IIIFHosting</a>, l&rsquo;URL fournie par défaut est en <code>http</code>. Pour l&rsquo;utiliser dans Adno, n&rsquo;oubliez pas de changer <code>http</code> en <code>https</code> au début de l&rsquo;URL.</li>
+<li>Les <a href="/fr/docs/references/cors/">paramétrages CORS</a> sur un serveur tiers pour autoriser ou interdire le transfert de données vers un autre domaine. L&rsquo;instance officielle de Adno utilise un contournement.</li>
+</ul>
 <h2 id="aide">Aide <a href="#aide" class="anchor" aria-hidden="true">#</a></h2>
 <p>Consultez la foire aux question et la documentation pour en savoir plus (attention ! ces parties sont encore incomplètes).
 En cas de problème ou de suggestion n&rsquo;hésitez à <a href="/contact">nous contacter</a>.</p>
