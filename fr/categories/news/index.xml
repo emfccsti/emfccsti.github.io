@@ -5,7 +5,17 @@
     <link>https://adno.app/fr/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Jul 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Présentation et ateliers Adno aux Journées annuelles 2024 du Cluster 1 Biblissima&#43; les 27 et 28 novembre 2024</title>
+      <link>https://adno.app/fr/blog/pr%C3%A9sentation-et-ateliers-adno-aux-journ%C3%A9es-annuelles-2024-du-cluster-1-biblissima-les-27-et-28-novembre-2024/</link>
+      <pubDate>Wed, 06 Nov 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/pr%C3%A9sentation-et-ateliers-adno-aux-journ%C3%A9es-annuelles-2024-du-cluster-1-biblissima-les-27-et-28-novembre-2024/</guid>
+      <description>Le Service interministériel des Archives de France (SIAF) et l&amp;rsquo;équipe Portail Biblissima+ organisent les troisièmes journées annuelles du Cluster 1 - Acquisition des corpus de sources interopérables aux Archives nationales et au Campus Condorcet les mercredi 27 et jeudi 28 novembre 2024.
+Ces journées intitulées « Des outils IIIF pour valoriser et explorer les collections en ligne » feront l&amp;rsquo;objet de présentations en plénière de plusieurs outils compatibles IIIF (le 27/11) et d&amp;rsquo;ateliers animés par leurs concepteurs ou par des utilisateurs ou implémenteurs de ces solutions (le 28/11).</description>
+    </item>
+    
     <item>
       <title>Nouvelle version de Adno</title>
       <link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link>
@@ -98,16 +108,6 @@ Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web.
       <description>L&amp;rsquo;Espace Mendès France présente Adno, un dispositif innovant de médiation scientifique, culturelle et artistique.
 Adno permet d’explorer dans le détail et de commenter des œuvres d’arts, des photographies, des graphiques ou toute images numériques en haute définition. C’est une application web simple et ergonomique, libre et gratuite, permettant de visualiser, d&amp;rsquo;éditer et de partager des récits et des parcours sur des images en ligne, statiques et IIIF.
 Concrètement, cette application tout en un présente les caractéristiques suivantes :</description>
-    </item>
-    
-    <item>
-      <title>Utiliser Adno avec des images de Gallica</title>
-      <link>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</link>
-      <pubDate>Fri, 28 Apr 2023 09:19:42 +0100</pubDate>
-      
-      <guid>https://adno.app/fr/blog/utiliser-adno-avec-des-images-de-gallica/</guid>
-      <description>Gallica est la bibliothèque numérique de la Bibliothèque nationale de France et de ses partenaires. Elle propose à la consultation en ligne des millions de documents. Ils sont accessibles en IIIF. Il en est souvent de même des bibliothèques numériques « Gallica marque blanche ».
-Cependant, les URL des manifestes ou des images ne sont pas directement récupérables. Le logo IIIF renvoie à un visualiseur IIIF et il faut accéder au volet d&amp;rsquo;information pour récupérer le lien utilisable dans Adno.</description>
     </item>
     
   </channel>
