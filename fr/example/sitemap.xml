@@ -2,6 +2,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://adno.app/fr/example/test-audio-avec-les-oiseaux-des-jardins/</loc>
+      <lastmod>2024-11-13T16:06:23+02:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>https://adno.app/fr/example/fondation-de-rome-tite-live/</loc>
       <lastmod>2023-05-23T07:51:50+02:00</lastmod>
       <changefreq>weekly</changefreq>
