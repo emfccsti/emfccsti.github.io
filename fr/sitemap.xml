@@ -147,6 +147,13 @@
   </url>
   
   <url>
+    <loc>https://adno.app/fr/blog/adno-au-s%C3%A9minaire-plateformes-collaboratives-et-iiif-le-24-janvier-2025-%C3%A0-la-bnf/</loc>
+    <lastmod>2024-12-18T12:20:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://adno.app/fr/blog/pr%C3%A9sentation-et-ateliers-adno-aux-journ%C3%A9es-annuelles-2024-du-cluster-1-biblissima-les-27-et-28-novembre-2024/</loc>
     <lastmod>2024-11-06T12:20:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -294,15 +301,8 @@
   </url>
   
   <url>
-    <loc>https://adno.app/fr/example/test-audio-avec-les-oiseaux-des-jardins/</loc>
-    <lastmod>2024-11-13T16:06:23+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://adno.app/fr/categories/</loc>
-    <lastmod>2024-11-06T12:20:42+01:00</lastmod>
+    <lastmod>2024-12-18T12:20:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -319,7 +319,7 @@
   
   <url>
     <loc>https://adno.app/fr/contributors/</loc>
-    <lastmod>2024-11-06T12:20:42+01:00</lastmod>
+    <lastmod>2024-12-18T12:20:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -336,14 +336,21 @@
   
   <url>
     <loc>https://adno.app/fr/categories/news/</loc>
-    <lastmod>2024-11-06T12:20:42+01:00</lastmod>
+    <lastmod>2024-12-18T12:20:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://adno.app/fr/contributors/thierry-pasquier/</loc>
-    <lastmod>2024-11-06T12:20:42+01:00</lastmod>
+    <lastmod>2024-12-18T12:20:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://adno.app/fr/example/test-audio-avec-les-oiseaux-des-jardins/</loc>
+    <lastmod>2024-11-13T16:06:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

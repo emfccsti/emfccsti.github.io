@@ -5,7 +5,18 @@
     <link>https://adno.app/fr/categories/news/</link>
     <description>Recent content in News on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adno au séminaire « Plateformes collaboratives et IIIF » le 24 janvier 2025 à la BnF</title>
+      <link>https://adno.app/fr/blog/adno-au-s%C3%A9minaire-plateformes-collaboratives-et-iiif-le-24-janvier-2025-%C3%A0-la-bnf/</link>
+      <pubDate>Wed, 18 Dec 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/adno-au-s%C3%A9minaire-plateformes-collaboratives-et-iiif-le-24-janvier-2025-%C3%A0-la-bnf/</guid>
+      <description>Le projet Mezanno, organisateur de cet atelier, vise à créer un ecosystème d&amp;rsquo;outils ouverts et interopérables pour l&amp;rsquo;annotation assistée de corpus personnalisés, soutenus par une communauté d&amp;rsquo;utilisateurs et de contributeurs. Le projet est issu d&amp;rsquo;un partenariat entre la Bibliothèque nationale de France, le Laboratoire de recherche de l’EPITA, le Centre de Recherches Historiques de l’EHESS et le Laboratoire en Sciences et Technologies de l’Information Géographique (LASTIG) de l’IGN.
+https://mezanno.xyz/
+Informations pratiques :</description>
+    </item>
+    
     <item>
       <title>Présentation et ateliers Adno aux Journées annuelles 2024 du Cluster 1 Biblissima&#43; les 27 et 28 novembre 2024</title>
       <link>https://adno.app/fr/blog/pr%C3%A9sentation-et-ateliers-adno-aux-journ%C3%A9es-annuelles-2024-du-cluster-1-biblissima-les-27-et-28-novembre-2024/</link>
@@ -97,17 +108,6 @@ Static Map API est l&amp;rsquo;une des nombreuses fonctionnalités que propose G
       <guid>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</guid>
       <description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
 Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description>
-    </item>
-    
-    <item>
-      <title>Rendez-vous pratique Adno le 7 juin à l&#39;EMF Poiters</title>
-      <link>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</link>
-      <pubDate>Sat, 22 Apr 2023 09:19:42 +0100</pubDate>
-      
-      <guid>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</guid>
-      <description>L&amp;rsquo;Espace Mendès France présente Adno, un dispositif innovant de médiation scientifique, culturelle et artistique.
-Adno permet d’explorer dans le détail et de commenter des œuvres d’arts, des photographies, des graphiques ou toute images numériques en haute définition. C’est une application web simple et ergonomique, libre et gratuite, permettant de visualiser, d&amp;rsquo;éditer et de partager des récits et des parcours sur des images en ligne, statiques et IIIF.
-Concrètement, cette application tout en un présente les caractéristiques suivantes :</description>
     </item>
     
   </channel>
