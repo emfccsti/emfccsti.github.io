@@ -38,16 +38,6 @@ correction des bugs, merci aux usagers qui en ont signalé et parfois même prop
     </item>
     
     <item>
-      <title>Nouvelle version de Adno</title>
-      <link>https://adno.app/fr/blog/nouvelle-version-de-adno/</link>
-      <pubDate>Sun, 14 Jul 2024 12:20:42 +0100</pubDate>
-      
-      <guid>https://adno.app/fr/blog/nouvelle-version-de-adno/</guid>
-      <description>Cette nouvelle version de Adno arrive avec les corrections et améliorations suivantes :
-correction des bugs, merci aux usagers qui en ont signalé et parfois même proposé des correctifs ; toilettage de l’interface pour le rendre plus clair et plus homogène ; amélioration de l’ergonomie pour que Adno soit toujours plus simple et intuitif à utiliser ; ajout d&amp;rsquo;une aide intégrée (le bouton ?) ; développement de deux nouvelles fonctionnalités : visualisation des annotations par mots clés, le mode lecture libre (encore expérimental).</description>
-    </item>
-    
-    <item>
       <title>Une table tactile alimentée par Adno</title>
       <link>https://adno.app/fr/blog/une-table-tactile-aliment%C3%A9e-par-adno/</link>
       <pubDate>Thu, 11 Jul 2024 12:20:42 +0100</pubDate>
@@ -108,6 +98,17 @@ Static Map API est l&amp;rsquo;une des nombreuses fonctionnalités que propose G
       <guid>https://adno.app/fr/blog/comment-visualiser-votre-projet-adno-dans-une-page-web/</guid>
       <description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
 Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description>
+    </item>
+    
+    <item>
+      <title>Rendez-vous pratique Adno le 7 juin à l&#39;EMF Poiters</title>
+      <link>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</link>
+      <pubDate>Sat, 22 Apr 2023 09:19:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/blog/rendez-vous-pratique-adno-le-7-juin-%C3%A0-lemf-poiters/</guid>
+      <description>L&amp;rsquo;Espace Mendès France présente Adno, un dispositif innovant de médiation scientifique, culturelle et artistique.
+Adno permet d’explorer dans le détail et de commenter des œuvres d’arts, des photographies, des graphiques ou toute images numériques en haute définition. C’est une application web simple et ergonomique, libre et gratuite, permettant de visualiser, d&amp;rsquo;éditer et de partager des récits et des parcours sur des images en ligne, statiques et IIIF.
+Concrètement, cette application tout en un présente les caractéristiques suivantes :</description>
     </item>
     
   </channel>
