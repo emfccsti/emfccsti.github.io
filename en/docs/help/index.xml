@@ -1,21 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Help on </title>
-    <link>https://adno.app/en/docs/help/</link>
-    <description>Recent content in Help on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Dec 2022 14:07:06 +0000</lastBuildDate><atom:link href="https://adno.app/en/docs/help/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FAQ</title>
-      <link>https://adno.app/en/docs/help/faq/</link>
-      <pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate>
-      
-      <guid>https://adno.app/en/docs/help/faq/</guid>
-      <description>Why Adno? #Adno is a web application for visualizing, editing and sharing readings and pathways on images. It will be of particular interest to cultural and scientific mediators, as well as researchers, archivists, librarians, etc.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Help on</title><link>https://adno.app/en/docs/help/</link><description>Recent content in Help on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 24 Dec 2022 14:07:06 +0000</lastBuildDate><atom:link href="https://adno.app/en/docs/help/index.xml" rel="self" type="application/rss+xml"/><item><title>FAQ</title><link>https://adno.app/en/docs/help/faq/</link><pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate><guid>https://adno.app/en/docs/help/faq/</guid><description>Why Adno? #
+Adno is a web application for visualizing, editing and sharing readings and pathways on images. It will be of particular interest to cultural and scientific mediators, as well as researchers, archivists, librarians, etc.
 Read the About Adno page to learn more.
-How do I use Adno? #The easiest way is to join the online service. This documentation provides all the information you need to get started as well as a number of examples.</description>
-    </item>
-    
-  </channel>
-</rss>
+How do I use Adno? #
+The easiest way is to join the online service. This documentation provides all the information you need to get started as well as a number of examples.</description></item></channel></rss>

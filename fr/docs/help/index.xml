@@ -1,41 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aide on </title>
-    <link>https://adno.app/fr/docs/help/</link>
-    <description>Recent content in Aide on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Dec 2022 14:07:06 +0000</lastBuildDate><atom:link href="https://adno.app/fr/docs/help/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FAQ</title>
-      <link>https://adno.app/fr/docs/help/faq/</link>
-      <pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate>
-      
-      <guid>https://adno.app/fr/docs/help/faq/</guid>
-      <description>Pourquoi Adno ? #Adno est une application web de visualisation, d’édition et de partage de lectures et de parcours sur des images. Elle intéressera tout particulièrement les enseignants, les médiateurs et les médiatrices culturelles et scientifiques, ainsi que les chercheurs et les chercheuses, les archivistes, les bibliothécaires, etc.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aide on</title><link>https://adno.app/fr/docs/help/</link><description>Recent content in Aide on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 24 Dec 2022 14:07:06 +0000</lastBuildDate><atom:link href="https://adno.app/fr/docs/help/index.xml" rel="self" type="application/rss+xml"/><item><title>FAQ</title><link>https://adno.app/fr/docs/help/faq/</link><pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate><guid>https://adno.app/fr/docs/help/faq/</guid><description>Pourquoi Adno ? #
+Adno est une application web de visualisation, d’édition et de partage de lectures et de parcours sur des images. Elle intéressera tout particulièrement les enseignants, les médiateurs et les médiatrices culturelles et scientifiques, ainsi que les chercheurs et les chercheuses, les archivistes, les bibliothécaires, etc.
 Lisez la page À-propos de Adno pour en savoir plus.
-Comme utiliser Adno ? #Le plus simple est de rejoindre le service en ligne.</description>
-    </item>
-    
-    <item>
-      <title>Extraire les images d&#39;un manifeste</title>
-      <link>https://adno.app/fr/docs/help/extract/</link>
-      <pubDate>Sun, 10 Mar 2024 09:19:42 +0100</pubDate>
-      
-      <guid>https://adno.app/fr/docs/help/extract/</guid>
-      <description>Entrez l&amp;rsquo;URL du manifeste pour extraire les références des images.
-URL du manifeste : Charger Réinitialiser La base du code de cette fonctionnalité provient du site IIIF Training.</description>
-    </item>
-    
-    <item>
-      <title>Visualiser un projet Adno</title>
-      <link>https://adno.app/fr/docs/help/visu/</link>
-      <pubDate>Fri, 02 Jun 2023 09:19:42 +0100</pubDate>
-      
-      <guid>https://adno.app/fr/docs/help/visu/</guid>
-      <description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
-Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description>
-    </item>
-    
-  </channel>
-</rss>
+Comme utiliser Adno ? #
+Le plus simple est de rejoindre le service en ligne.</description></item><item><title>Extraire les images d'un manifeste</title><link>https://adno.app/fr/docs/help/extract/</link><pubDate>Sun, 10 Mar 2024 09:19:42 +0100</pubDate><guid>https://adno.app/fr/docs/help/extract/</guid><description>Entrez l&amp;rsquo;URL du manifeste pour extraire les références des images.
+URL du manifeste : Charger Réinitialiser La base du code de cette fonctionnalité provient du site IIIF Training.</description></item><item><title>Visualiser un projet Adno</title><link>https://adno.app/fr/docs/help/visu/</link><pubDate>Fri, 02 Jun 2023 09:19:42 +0100</pubDate><guid>https://adno.app/fr/docs/help/visu/</guid><description>Un projet Adno se présente sous la forme d&amp;rsquo;un simple fichier texte qui peut être enrégistré et partagé. Ce fichier est au format du standard Web Annotation model format. Il peut donc être traité par Adno et par tout autre logiciel compatible.
+Nativement, Adno permet d&amp;rsquo;incorporer un projet Adno dans une page web. Il est nécessaire que le projet soit accessible en ligne. Ensuite il suffit d&amp;rsquo;insérer une balise iframe en respectant la syntaxe suivante.</description></item></channel></rss>
