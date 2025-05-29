@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contributors on</title><link>https://adno.app/fr/contributors/</link><description>Recent content in Contributors on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 18 Dec 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/contributors/index.xml" rel="self" type="application/rss+xml"/><item><title>Thierry Pasquier</title><link>https://adno.app/fr/contributors/thierry-pasquier/</link><pubDate>Wed, 18 Dec 2024 12:20:42 +0100</pubDate><guid>https://adno.app/fr/contributors/thierry-pasquier/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributors on </title>
+    <link>https://adno.app/fr/contributors/</link>
+    <description>Recent content in Contributors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Dec 2024 12:20:42 +0100</lastBuildDate><atom:link href="https://adno.app/fr/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thierry Pasquier</title>
+      <link>https://adno.app/fr/contributors/thierry-pasquier/</link>
+      <pubDate>Wed, 18 Dec 2024 12:20:42 +0100</pubDate>
+      
+      <guid>https://adno.app/fr/contributors/thierry-pasquier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
